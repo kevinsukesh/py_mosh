@@ -1,4 +1,4 @@
-successful = False
+successful = True
 for i in range(1, 4):
     print("Attempt", i, i * ".")
     if successful:
