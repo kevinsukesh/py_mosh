@@ -1,2 +1,2 @@
 for x in [1, 2, 3, 4]:
-    print (x)d
+    print (x + 1)  
